@@ -23,6 +23,7 @@ function App() {
             <div>
             <PokemonCard pokemonName="ditto"/>
             <PokemonCard pokemonName="pikachu"/>
+             <PokemonCard  pokemonName=""/>
 
             </div>
             );
